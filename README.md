@@ -51,6 +51,10 @@ Our focus is reducing repetitive migration work while keeping generated changes 
 - [HL7 Edge Gateway](https://lambogenius.com/products/hl7-edge-gateway)
 - [HL7 Schema Generator](https://lambogenius.com/products/hl7-schema-generator)
 
+#### HL7 Edge Gateway
+
+Our team at Lambogenius developed the HL7 Edge Gateway to connect on-premises healthcare systems with cloud services and partner platforms. It exchanges HL7 v2 messages in both directions across MLLP/MLLPS, HTTP/HTTPS REST and SOAP, Azure Service Bus, and SFTP, with configurable routing, filtering and transformation. It also supports X12 EDI exchanges through CAQH CORE and converts HL7 v2 into FHIR R4 Bundles for delivery to FHIR servers. TLS and authentication options, durable store-and-forward delivery and retries help teams modernize existing interfaces without requiring every source system to change its protocol.
+
 ### BizTalk developer tools
 
 - [BizTalk Binding Viewer](https://lambogenius.com/products/biztalk-binding-viewer)
