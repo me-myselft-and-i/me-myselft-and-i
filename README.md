@@ -1,11 +1,12 @@
 # Hi, I’m Guotham 👋
 
-I build enterprise integrations and tools that make modernization easier to review, test and maintain.
+I focus on MuleSoft development and enterprise integration architecture, building integrations and tools that make modernization easier to review, test and maintain.
 
 My work spans MuleSoft, BizTalk, Azure Integration Services, healthcare interoperability and practical AI-assisted development.
 
 ## Areas of focus
 
+- **MuleSoft development and architecture:** Enterprise integration, reusable configuration and connector design, structured logging and cross-platform modernization
 - **AI-assisted engineering:** Agent orchestration, multi-model review, AI-assisted code generation and migration automation
 - **Integration:** MuleSoft, BizTalk, Azure Logic Apps and Azure Functions
 - **APIs and messaging:** Azure API Management and Service Bus
@@ -13,6 +14,17 @@ My work spans MuleSoft, BizTalk, Azure Integration Services, healthcare interope
 - **Healthcare interoperability:** HL7 and FHIR
 
 ## Selected public projects
+
+### MuleSoft repositories
+
+These repositories explore reusable building blocks for MuleSoft integration solutions, with a focus on configuration management, cloud connectivity and observability.
+
+- [Mule Git Properties Provider](https://github.com/me-myselft-and-i/mule-git-properties-provider) — a documented design concept for Git-backed application configuration using GitHub or Azure DevOps.
+- [Mule Google Secret Manager Properties Provider](https://github.com/me-myselft-and-i/mule-gsm-properties-provider) — a documented design concept for retrieving configuration secrets from Google Secret Manager through a custom Mule properties provider.
+- [Mule Google Cloud Storage Connector](https://github.com/me-myselft-and-i/mule-google-cloud-storage-connector) — a documented Mule 4 connector concept for Google Cloud Storage with Google Cloud Workload Identity authentication.
+- [Mule JSON Logger Extended](https://github.com/me-myselft-and-i/mule-json-logger-extended) — my fork of [MuleSoft Consulting's JSON Logger](https://github.com/mulesoft-consulting/json-logger), a structured JSON logging connector for Mule 4. The original project and authors retain their attribution.
+
+**Repository status:** The three properties-provider and storage-connector repositories currently contain design descriptions rather than published implementations. They are not presented as production-ready connectors.
 
 ### [Python FHIR API](https://github.com/me-myselft-and-i/python-fhir-api)
 
@@ -43,6 +55,8 @@ LI supports BizTalk-to-Azure integration modernization and combines:
 - Reports at each stage and an overall final report
 
 Our focus is reducing repetitive migration work while keeping generated changes reviewable and aligned with delivery standards.
+
+**Planned next capability — MuleSoft migration paths:** We plan to extend LI with **BizTalk-to-MuleSoft and/or MuleSoft-to-Azure Integration Services conversion**. These are roadmap items, not currently released capabilities.
 
 ### Healthcare interoperability
 
