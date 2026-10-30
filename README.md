@@ -32,6 +32,8 @@ Our team builds integration migration tools, developer tooling, workflow compone
 - [XSLT Compose](https://lambogenius.com/products/xslt-compose)
 - [Liquid Compose](https://lambogenius.com/products/liquid-compose)
 
+With [BizTalk Server 2020 approaching the end of extended support in April 2030](https://learn.microsoft.com/en-us/lifecycle/products/biztalk-server-2020), organizations need to plan their integration modernization. Drawing on hands-on BizTalk and Azure integration experience, our team developed the Lambogenius Integration Migration Tool (LI) to reduce repetitive migration work and make generated solutions easier to review, validate and maintain.
+
 LI supports BizTalk-to-Azure integration modernization and combines:
 
 - A primary AI agent and a separate reviewer agent, which can use a different model or provider
