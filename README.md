@@ -6,6 +6,7 @@ My work spans MuleSoft, BizTalk, Azure Integration Services, healthcare interope
 
 ## Areas of focus
 
+- **AI-assisted engineering:** Agent orchestration, multi-model review, AI-assisted code generation and migration automation
 - **Integration:** MuleSoft, BizTalk, Azure Logic Apps and Azure Functions
 - **APIs and messaging:** Azure API Management and Service Bus
 - **Development and delivery:** C#, Python, Bicep, infrastructure as code and CI/CD
