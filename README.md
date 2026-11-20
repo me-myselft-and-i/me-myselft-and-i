@@ -97,4 +97,6 @@ Our team at Lambogenius developed the HL7 Edge Gateway to connect on-premises he
 
 This profile includes personal projects, experiments and forks. Forks retain their upstream attribution and are not presented as projects I created from scratch.
 
-[Visit Lambogenius](https://lambogenius.com) 
+* [Visit Lambogenius](https://lambogenius.com)
+* [Visit AskAFriend](https://askafriend.io/) 
+
