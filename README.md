@@ -2,7 +2,7 @@
 
 I focus on MuleSoft development and enterprise integration architecture, building integrations and tools that make modernization easier to review, test and maintain.
 
-My work spans MuleSoft, BizTalk, Azure Integration Services, healthcare interoperability and practical AI-assisted development.
+My work spans MuleSoft, BizTalk, Azure Integration Services, SpringBoots, Google Cloud Platform, AWS, healthcare interoperability and practical AI-assisted development.
 
 ## Areas of focus
 
@@ -10,7 +10,7 @@ My work spans MuleSoft, BizTalk, Azure Integration Services, healthcare interope
 - **AI-assisted engineering:** Agent orchestration, multi-model review, AI-assisted code generation and migration automation
 - **Integration:** MuleSoft, BizTalk, Azure Logic Apps and Azure Functions
 - **APIs and messaging:** Azure API Management and Service Bus
-- **Development and delivery:** C#, Python, Bicep, infrastructure as code and CI/CD
+- **Development and delivery:** Java, C#, Python, Bicep, infrastructure as code and CI/CD
 - **Healthcare interoperability:** HL7 and FHIR
 
 ## Selected public projects
