@@ -82,6 +82,7 @@ Our team at Lambogenius developed the HL7 Edge Gateway to connect on-premises he
 ### Additional developer tooling
 
 - [TAR.GZ Viewer](https://lambogenius.com/products/tar-gz-viewer)
+- [GitPraise - a better GitBlame](https://lambogenius.com/products/gitpraise)
 
 ## How I approach engineering
 
