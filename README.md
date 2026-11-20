@@ -86,6 +86,7 @@ Our team at Lambogenius developed the HL7 Edge Gateway to connect on-premises he
 
 ## How I approach engineering
 
+- Never limit your imagination. Limit what you build next.
 - Make assumptions and limitations explicit.
 - Keep generated changes inspectable and testable.
 - Prefer reproducible examples over unsupported claims.
