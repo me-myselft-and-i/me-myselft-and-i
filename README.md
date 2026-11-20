@@ -8,7 +8,7 @@ My work spans MuleSoft, BizTalk, Azure Integration Services, SpringBoots, Google
 
 - **MuleSoft development and architecture:** Enterprise integration, reusable configuration and connector design, structured logging and cross-platform modernization
 - **AI-assisted engineering:** Agent orchestration, multi-model review, AI-assisted code generation and migration automation
-- **Integration:** MuleSoft, BizTalk, Azure Logic Apps and Azure Functions
+- **Integration:** MuleSoft, BizTalk, Azure Logic Apps and Azure Functions, Google Cloud Platform, AWS
 - **APIs and messaging:** Azure API Management and Service Bus
 - **Development and delivery:** Java, C#, Python, Bicep, infrastructure as code and CI/CD
 - **Healthcare interoperability:** HL7 and FHIR
